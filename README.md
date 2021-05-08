@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Discord%20Icon%20Rounded%20Small.png)](https://pierredespereaux.github.io/PierreDespereaux/)
-
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Knight%20of%20the%20North.png)\
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Xbox%20Tiny.png)](https://bethesda.net/en/mods/skyrim/mod-detail/4200958)﻿﻿ Also available on [Xbox One](https://bethesda.net/en/mods/skyrim/mod-detail/4200958)﻿.
 
