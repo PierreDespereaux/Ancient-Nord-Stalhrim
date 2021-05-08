@@ -18,13 +18,13 @@ I have always been annoyed that high-level Draugr use Ebony weapons. The Ebony w
 -   High-level draugr will now wield Ancient Stalhrim instead of Ebony.
 -   Ancient Stalhrim weapons can be reforged into Stalhrim Hero weapons at the Skyforge after you complete both the [Companions ](https://en.uesp.net/wiki/Skyrim:Companions)﻿questline and [A New Source of Stalhrim](https://en.uesp.net/wiki/Skyrim:A_New_Source_of_Stalhrim)﻿.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Compatibility.png)\
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Compatibility.png)
 
 Patches for the following mods are provided in our installer:
 
 -   [Believable Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/37737)﻿
 -   [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188)﻿
--   [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)\
+-   [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)
 
 Patches for the following mods are provided on that mod's page:
 
