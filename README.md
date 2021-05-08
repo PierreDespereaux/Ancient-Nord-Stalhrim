@@ -1,5 +1,8 @@
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Discord%20Icon%20Rounded%20Small.png)](https://pierredespereaux.github.io/PierreDespereaux/)
 
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Knight%20of%20the%20North.png)\
+[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Xbox%20Tiny.png)](https://bethesda.net/en/mods/skyrim/mod-detail/4200958)﻿﻿ Also available on [Xbox One](https://bethesda.net/en/mods/skyrim/mod-detail/4200958)﻿.
+
 I have always been annoyed that high-level Draugr use Ebony weapons. The Ebony we see in-game is in the Dunmer style, so it feels really weird to see Ancient Nords wielding it alongside their tradtional Nordic weaponry. So I set out to make a mod that would fix this little niggle I had with the game. With the help of my buddy opusGlass and jboyd4 we have made a new variant of Ancient Nord weapon that is more suiting for the draugr the walk Skyrim's crypts: Ancient Stalhrim!
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)
