@@ -18,12 +18,13 @@ Patches for the following mods are provided in our installer:
 -   [Believable Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/37737)
 -   [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188)
 -   [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)
+-   [Outlandish Stalhrim﻿](https://www.nexusmods.com/skyrimspecialedition/mods/19562)
 
 Patches for the following mods are provided on that mod's page:
 
 -   [Ancient Nord Armo(u)ry EXTREME](https://www.nexusmods.com/skyrimspecialedition/mods/41265)
 -   [LeanWolf's Better-Shaped Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/2017)
--   [Stalhrim Refrozen - Sensible Shine with Subtle Depth Effect](https://www.nexusmods.com/skyrimspecialedition/mods/41348)\
+-   [Stalhrim Refrozen - Sensible Shine with Subtle Depth Effect](https://www.nexusmods.com/skyrimspecialedition/mods/41348)
 
 The following mods are fully compatible out-of-the-box:
 
