@@ -1,7 +1,9 @@
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Discord%20Icon%20Rounded%20Small.png)](https://pierredespereaux.github.io/PierreDespereaux/)\
-[![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Featured%20in%20Keizaal.png)
+[![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Featured%20in%20Keizaal.png)](https://pierredespereaux.github.io/Keizaal/)
 
-](https://pierredespereaux.github.io/Keizaal/)[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Catir%20Approved.png)](https://youtu.be/V85sjumXnOs)﻿﻿﻿[![](https://raw.githubusercontent.com/opusGlass/opusGlassImages/main/banners/endorsement.png)](https://www.nexusmods.com/users/6123863)[](https://youtu.be/V85sjumXnOs)[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/konahrik.png)](https://www.nexusmods.com/users/32960085)
+[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Catir%20Approved.png)](https://youtu.be/V85sjumXnOs)
+[![](https://raw.githubusercontent.com/opusGlass/opusGlassImages/main/banners/endorsement.png)](https://www.nexusmods.com/users/6123863)[](https://youtu.be/V85sjumXnOs)
+[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/konahrik.png)](https://www.nexusmods.com/users/32960085)
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Ancient%20Nord%20Stalhrim.png)\
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Xbox%20Tiny.png)](https://bethesda.net/en/mods/skyrim/mod-detail/4210568)﻿﻿ Also available on [Xbox One](https://bethesda.net/en/mods/skyrim/mod-detail/4210568)﻿.\
