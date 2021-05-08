@@ -36,6 +36,6 @@ jboyd4 for implementing the mod's assets into the Skyrim format.
 VictorF for the original idea.
 FafnirEtherion for the Believable Weapons patch.
 
-[!](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/My%20Mods.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/My%20Mods.png)
 
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png)](https://www.nexusmods.com/users/61720101)
