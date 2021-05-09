@@ -18,7 +18,7 @@ Patches for the following mods are provided in our installer:
 -   [Believable Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/37737)
 -   [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188)
 -   [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)
--   [Outlandish Stalhrim﻿](https://www.nexusmods.com/skyrimspecialedition/mods/19562)
+-   [Outlandish Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/19562)
 
 Patches for the following mods are provided on that mod's page:
 
@@ -32,13 +32,10 @@ The following mods are fully compatible out-of-the-box:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Credits.png)
 
-opusGlass for the new Ancient Stalhrim assets.
-
-jboyd4 for implementing the mod's assets into the Skyrim format.
-
-VictorF for the original idea.
-
-FafnirEtherion for the Believable Weapons patch.
+opusGlass for the new Ancient Stalhrim assets.\
+jboyd4 for implementing the mod's assets into the Skyrim format.\
+VictorF for the original idea.\
+FafnirEtherion for the Believable Weapons patch.\
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/My%20Mods.png)
 
